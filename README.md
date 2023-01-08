@@ -1,6 +1,2 @@
-# Olá, Mundo
- Primeiro repositorio do curso de Git e GitHub
-
-Repositório criado durante uma aula ao vivo!
-
-Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
+# Curso Grátis de Git e GitHub
+Material do **Curso de Git e GitHub**, disponivel gratuitamente no canal do *YouTube*.
